@@ -1,22 +1,21 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Srivatsal Narayan</h1>
-<h3 align="center">A passionate data analysist and machine learning specialist from India</h3>
+<h1 align="center">Hi 👋, I'm Bhagyashree Batra</h1>
+<h3 align="center">A passionate cyber security analysist and machine learning specialist from India</h3>
 
 
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Machine Learning & Full stack Development**
 
-- 👯 I’m looking to collaborate on **LGSI_explicit content detection**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srivatsalnarayan](https://github.com/srivatsalnarayan)
+- 👨‍💻 All of my projects are available at [[https://github.com/BhagyashreeBatra]([https://github.com/BhagyashreeBatra])
 
-- 💬 Ask me about **AI, ML, Data Science, Data Analytics**
+- 💬 Ask me about **ML,Cyber Security,Full Stack**
 
-- 📫 How to reach me **narayansrivatsal@gmail.com**
+- 📫 How to reach me **bd5964@srmist.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srivatsal-narayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srivatsal-narayan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhagyashree-batra-7a7289221?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagyashree-batra-7a7289221?originalSubdomain=in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
